@@ -1,6 +1,6 @@
 ### Moin, I’m Tommy Ziegler ⚓️
 
-Leader Sales Engineering Germany at Cisco AppDynamics - Full Stack Observability, Cloud, TDD, RESTful, BI/BigData, Agile, and Spring enthusiast - Love to travel
+Leader Sales Engineering at Cisco AppDynamics - Full Stack Observability, Open Telemetry, Cloud, TDD, RESTful, BI/BigData, Agile and Spring enthusiast - Love to travel the world 🌍
 
 <!---
 - 👀 I’m interested in ...
